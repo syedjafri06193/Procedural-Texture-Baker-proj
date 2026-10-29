@@ -35,3 +35,23 @@ All documentation lives in [`1—Documentation/`](1—Documentation/README.md).
 
 - Appendix A — Decision record
 - Appendix B — Quick reference card
+
+<!-- project-metrics:start -->
+## Project Metrics
+
+[![Stars](https://img.shields.io/github/stars/syedjafri06193/Procedural-Texture-Baker-proj?style=flat-square)](https://github.com/syedjafri06193/Procedural-Texture-Baker-proj/stargazers) [![Forks](https://img.shields.io/github/forks/syedjafri06193/Procedural-Texture-Baker-proj?style=flat-square)](https://github.com/syedjafri06193/Procedural-Texture-Baker-proj/forks) [![Open issues](https://img.shields.io/github/issues/syedjafri06193/Procedural-Texture-Baker-proj?style=flat-square)](https://github.com/syedjafri06193/Procedural-Texture-Baker-proj/issues) [![Last commit](https://img.shields.io/github/last-commit/syedjafri06193/Procedural-Texture-Baker-proj/improvements?style=flat-square)](https://github.com/syedjafri06193/Procedural-Texture-Baker-proj/commits/improvements) [![Commits](https://img.shields.io/github/commit-activity/t/syedjafri06193/Procedural-Texture-Baker-proj?style=flat-square)](https://github.com/syedjafri06193/Procedural-Texture-Baker-proj/commits/improvements) [![Top language](https://img.shields.io/github/languages/top/syedjafri06193/Procedural-Texture-Baker-proj?style=flat-square)](https://github.com/syedjafri06193/Procedural-Texture-Baker-proj) [![Repo size](https://img.shields.io/github/repo-size/syedjafri06193/Procedural-Texture-Baker-proj?style=flat-square)](https://github.com/syedjafri06193/Procedural-Texture-Baker-proj)
+
+### Code
+
+| Metric | Value |
+|---|---|
+| Lines of code | — (design-docs repo) |
+| Source files | 0 |
+| Tracked files | 4 |
+| Documentation | 3 Markdown files (9,467 words), 1 PDF |
+| Commits | 6 |
+| Contributors | 1 |
+| Active | 2026-09-11 → 2026-10-28 |
+
+<sub>Code stats as of 2026-10-28, counted with pygount (comments and blank lines excluded). Badges update live.</sub>
+<!-- project-metrics:end -->
